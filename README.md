@@ -2,7 +2,7 @@
 
 advent of code 2024 just for fun
 
-[Link] (https://adventofcode.com/2024)
+[Link](https://adventofcode.com/2024)
 
 # Progress
 
